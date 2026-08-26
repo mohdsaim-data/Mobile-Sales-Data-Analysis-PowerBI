@@ -22,7 +22,7 @@ Retail businesses often face challenges tracking regional market demand, product
 ## Repository Structure
 * [Mobile_Sales_Dashboard.pbix] : Main Power BI Desktop file containing data models, DAX     measures, and interactive visuals.
 * (mobile_sales_data.csv) : Raw sales logs used for analysis.
-* [mobile_sales_dashboard.png](mobile_sales_dashboard.png): High-resolution preview image of the report.
+* [mobile_sales_dashboard.png](mobile_sales_dashboard.png.png): High-resolution preview image of the report.
 
 ## Tools & Technologies Used
 * **Power BI Desktop:** Data modeling, DAX queries, and dashboard layout design.
