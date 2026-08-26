@@ -23,7 +23,6 @@ Retail businesses often face challenges tracking regional market demand, product
 * `Mobile_Sales_Dashboard.pbix`: Main Power BI Desktop file containing data models, DAX measures, and interactive visuals.
 * `dataset/mobile_sales_data.csv`: Raw sales logs used for analysis.
 * `assets/mobile_sales_dashboard.png`: High-resolution preview image of the report.
-* `docs/mobile_sales_dashboard.pdf`: Full PDF export of the dashboard report.
 
 ## Tools & Technologies Used
 * **Power BI Desktop:** Data modeling, DAX queries, and dashboard layout design.
@@ -34,4 +33,3 @@ Retail businesses often face challenges tracking regional market demand, product
 1. Download or clone this repository.
 2. Open `Mobile_Sales_Dashboard.pbix` in **Power BI Desktop**.
 3. Use the left-side slicers to filter data dynamically by month, mobile brand, payment method, or day.
-4. Access the full document export via [PDF Dashboard Report](docs/mobile_sales_dashboard.pdf).
