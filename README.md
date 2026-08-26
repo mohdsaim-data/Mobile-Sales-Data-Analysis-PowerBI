@@ -20,9 +20,9 @@ Retail businesses often face challenges tracking regional market demand, product
 * **Sales Seasonality:** Monthly trends show sales volume peaks in mid-year promotional months (May and July).
 
 ## Repository Structure
-* [Uploading Mobile_Sales_Dashboard.pbix.pbix…]() : Main Power BI Desktop file containing data models, DAX measures, and interactive visuals.
-* [dataset/mobile_sales_data.csv](dataset/mobile_sales_data.csv): Raw sales logs used for analysis.
-* `assets/mobile_sales_dashboard.png`: High-resolution preview image of the report.
+* [Mobile_Sales_Dashboard.pbix](Mobile_Sales_Dashboard.pbix) : Main Power BI Desktop file containing data models, DAX     measures, and interactive visuals.
+* [dataset/mobile_sales_data.csv](dataset/mobile_sales_data.csv) : Raw sales logs used for analysis.
+* [assets/mobile_sales_dashboard.png](assets/mobile_sales_dashboard.png) : High-resolution preview image of the report.
 
 ## Tools & Technologies Used
 * **Power BI Desktop:** Data modeling, DAX queries, and dashboard layout design.
