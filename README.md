@@ -3,7 +3,7 @@
 ## Project Overview
 This interactive Power BI project analyzes mobile phone sales performance, payment preferences, regional distribution, and customer ratings across India. It unifies scattered operational metrics into a single executive dashboard to support data-driven decision-making.
 
-[Mobile Sales Dashboard](assets/mobile_sales_dashboard.png)
+![Mobile Sales Dashboard](assets/mobile_sales_dashboard.png)
 
 ## Business Problem Solved
 Retail businesses often face challenges tracking regional market demand, product mix performance, and customer payment behaviors across multiple retail hubs. This dashboard addresses these issues by providing:
